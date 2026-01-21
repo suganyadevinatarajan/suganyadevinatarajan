@@ -1,4 +1,4 @@
-Hi, I'm [Suganyadevi Natarajan]! 👋
+Hi, I'm Suganyadevi Natarajan! 👋
 
 ## 🛠 Skills
 | Category | Tools & Technologies |
