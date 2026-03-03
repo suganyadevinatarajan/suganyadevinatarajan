@@ -13,5 +13,5 @@ Hi, I'm Suganyadevi Natarajan! 👋
 * **Data Integrity:** Implementing Schema Evolution and Schema merging strategies.
 * **Performance Tuning:** currently exploring Performance Tuning and optimization techniques.
 
-### 🎓 Certifications
+### 🎓 Batches
 ![Databricks](https://images.credential.net/badge/tiny/qm0r4wpq_1772550006082_badge.png)
