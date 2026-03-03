@@ -14,4 +14,4 @@ Hi, I'm Suganyadevi Natarajan! 👋
 * **Performance Tuning:** currently exploring Performance Tuning and optimization techniques.
 
 ### 🎓 Certifications
-![Databricks]([https://img.shields.io/badge/Databricks-Lakehouse_Fundamentals-orange?style=for-the-badge&logo=databricks&logoColor=white](https://images.credential.net/badge/tiny/qm0r4wpq_1772550006082_badge.png))
+![Databricks](https://images.credential.net/badge/tiny/qm0r4wpq_1772550006082_badge.png))
